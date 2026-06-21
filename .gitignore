@@ -1,0 +1,37 @@
+# ModelSim / Questa simulation artifacts
+work/
+*.wlf
+*.vcd
+*.vvp
+*.v.out
+_transcript
+*.log
+
+# Quartus II build artifacts
+db/
+incremental_db/
+output_files/
+hc_output/
+*.qws
+*.ddb
+*.stp
+*.ipinfo
+c5_pin_model_dump.txt
+
+# Icarus Verilog artifacts
+*.vvp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large binary files (excluded from git)
+*.mp4
+*.zip
+*.rar
+
+# Reference code (read-only, teacher's materials)
+reference/
+
+# Editor / IDE
+*.code-workspace

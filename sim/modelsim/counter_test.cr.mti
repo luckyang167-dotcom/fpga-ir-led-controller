@@ -1,0 +1,16 @@
+{G:/11.7 eda/counter.v} {1 {vlog -work work -vopt -stats=none {G:/11.7 eda/counter.v}
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} {G:/11.7 eda/tb_counter.v} {1 {vlog -work work -vopt -stats=none {G:/11.7 eda/tb_counter.v}
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling module counter
+-- Compiling module tb_counter
+
+Top level modules:
+	tb_counter
+
+} {} {}}

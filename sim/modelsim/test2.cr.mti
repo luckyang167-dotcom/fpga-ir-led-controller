@@ -1,0 +1,29 @@
+{G:/11.7 eda/glbcnt2.v} {1 {vlog -work work -vopt -stats=none {G:/11.7 eda/glbcnt2.v}
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling module glbcnt
+
+Top level modules:
+	glbcnt
+
+} {} {}} {G:/11.7 eda/tb_inf2.v} {1 {vlog -work work -vopt -stats=none {G:/11.7 eda/tb_inf2.v}
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling module tb_inf
+
+Top level modules:
+	tb_inf
+
+} {} {}} {G:/11.7 eda/counter2.v} {1 {vlog -work work -vopt -stats=none {G:/11.7 eda/counter2.v}
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} {G:/11.7 eda/edge_detect2.v} {1 {vlog -work work -vopt -stats=none {G:/11.7 eda/edge_detect2.v}
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling module edge_detect
+
+Top level modules:
+	edge_detect
+
+} {} {}}

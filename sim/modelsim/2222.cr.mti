@@ -1,0 +1,18 @@
+{G:/11.7 eda/1 (2)/info_led_controller.v} {1 {vlog -work work -vopt -stats=none {G:/11.7 eda/1 (2)/info_led_controller.v}
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling module led_controller
+-- Compiling module counter
+-- Compiling module pwm
+-- Compiling module tb_led_controller
+
+Top level modules:
+	tb_led_controller
+
+} {} {}} {G:/11.7 eda/1 (2)/1/led_controller.v} {1 {vlog -work work -vopt -stats=none {G:/11.7 eda/1 (2)/1/led_controller.v}
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling module led_controller
+
+Top level modules:
+	led_controller
+
+} {} {}}
